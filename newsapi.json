@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Min",
+            "title": "Stock futures fall after the Nasdaq Composite closes at a 2-year low - CNBC",
+            "description": "Market participants are anticipating key inflation data this week, as well as the release of major bank earnings.",
+            "url": "https://www.cnbc.com/2022/10/10/stock-futures-are-little-changed-after-the-nasdaq-composite-closes-at-a-2-year-low.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107100586-Traders-TF-Photo-20220808-ACJ-019-PRESS-1.jpg?v=1665439768&w=1920&h=1080",
+            "publishedAt": "2022-10-11T07:21:00Z",
+            "content": "U.S. stock futures traded lower on Tuesday morning after the Nasdaq Composite closed at its lowest in two years during the regular session.\r\nDow Jones Industrial Average futures fell by 250 points, o… [+1518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Bank of England intervenes in bond markets again, warns of 'material risk' to UK financial stability - CNBC",
+            "description": "\"Dysfunction in this market, and the prospect of self-reinforcing 'fire sale' dynamics pose a material risk to UK financial stability,\" the bank warned.",
+            "url": "https://www.cnbc.com/2022/10/11/bank-of-england-expands-bond-market-intervention-in-effort-to-quell-volatility.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106946150-1632384022074-gettyimages-1235330347-Vuk_Valcic_City_170921_10.jpeg?v=1665468586&w=1920&h=1080",
+            "publishedAt": "2022-10-11T06:09:46Z",
+            "content": "LONDON The Bank of England on Tuesday announced an expansion of its emergency bond-buying operation as it looks to restore order to the country's chaotic bond market.\r\nThe central bank said it will w… [+2311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Abigail Ng",
+            "title": "Taiwan stocks down more than 4% in mixed Asia trade as TSMC plunges 8% - CNBC",
+            "description": "Shares in the Asia-Pacific were mixed while Taiwan's benchmark index dropped 4% as investors weighed the impact of new U.S. rules on chipmaker TSMC.",
+            "url": "https://www.cnbc.com/2022/10/11/asia-markets-interest-rates-economy-stocks-currencies.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107132230-1665444692419-gettyimages-1237689867-JAPAN_STOCK.jpeg?v=1665445323&w=1920&h=1080",
+            "publishedAt": "2022-10-11T04:27:00Z",
+            "content": "The Australian dollar has been facing \"something of a perfect storm\" since the start of the week, according to Rodrigo Catril, a currency strategist at the National Australia Bank.\r\nThe currency, whi… [+633 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Taylor Nicole Rogers",
+            "title": "US property sector braced for job cuts as rate rises crush home sales - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/f60c20bd-1cd4-48d9-aed5-682beb7475fd",
+            "urlToImage": null,
+            "publishedAt": "2022-10-11T04:00:54Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Musk Claims Twitter Ordered Whistle-Blower to Destroy Evidence - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=07698590-4943-11ed-8ba4-46556941584b&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMC0xMC9tdXNrLWFsbGVnZXMtdHdpdHRlci1vcmRlcmVkLXdoaXN0bGUtYmxvd2VyLXRvLWRlc3Ryb3ktZXZpZGVuY2U=",
+            "urlToImage": null,
+            "publishedAt": "2022-10-11T02:04:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Shivdeep Dhaliwal",
+            "title": "Bitcoin, Ethereum, Dogecoin Slide: Analyst Says It's Time To Stash Up On Apex Crypto - Bitcoin (BTC/USD) - Benzinga",
+            "description": "The two-largest cryptocurrencies traded in negative territory Monday evening as the global cryptocurrency market cap slipped 3% to $918.7 billion at 9:12 p.m. EDT.",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/22/10/29209171/bitcoin-ethereum-dogecoin-down-current-traded-price-of-apex-coin-is-far-beneath-the-fair-v",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2022/10/10/shutterstock_2082587002.jpg?width=1200&height=800&fit=crop",
+            "publishedAt": "2022-10-11T02:00:47Z",
+            "content": "The two-largest cryptocurrencies traded in negative territory Monday evening as the global cryptocurrency market cap slipped 3% to $918.7 billion at 9:12 p.m. EDT.\r\n<table>Price Performance Of Major … [+3788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Mayhem hits the metals market—where are prices heading? - CNBC Television",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMBxbCacZ-vY",
+            "urlToImage": null,
+            "publishedAt": "2022-10-11T00:13:48Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "U.S. should pump more oil to avert war-level energy crisis, says JPMorgan's Jamie Dimon - CNBC International TV",
+            "description": "JPMorgan CEO Jamie Dimon speaks to CNBC's Julianna Tatelbaum from the JPM Techstars conference in London.",
+            "url": "https://www.youtube.com/watch?v=9QyQJWymt0Y",
+            "urlToImage": "https://i.ytimg.com/vi/9QyQJWymt0Y/maxresdefault.jpg",
+            "publishedAt": "2022-10-11T00:09:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China's electric car market is booming but can it last? - BBC",
+            "description": "Cheap electric cars are selling fast but the end of subsidies could end the sales boom.",
+            "url": "https://www.bbc.com/news/business-62825830",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E9EB/production/_126638895_gettyimages-1232414907.jpg",
+            "publishedAt": "2022-10-10T23:08:43Z",
+            "content": "If you want to understand how governments can fuel the rise of new technologies, look no further than the taxi fleets of Beijing. \r\nFive years ago, the city revealed plans to ban the introduction of … [+6507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "AstraZeneca's COVID vaccine suffers a setback in nasal spray trial - Yahoo News",
+            "description": "An antibody response in the respiratory mucous membranes was seen in only a minority of participants in the trial, which was in the first of usually three...",
+            "url": "https://news.yahoo.com/astrazenecas-covid-vaccine-suffers-setback-230741535.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/.uNAKbB4xZBW_WYicmXdXQ--~B/aD00NjY7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/dc801a33924c1f2d9cf4082966d0bc01",
+            "publishedAt": "2022-10-10T23:07:41Z",
+            "content": "(Reuters) - Attempts by Oxford University researchers and AstraZeneca Plc to create a nasal-spray version of their jointly developed COVID-19 shot suffered a setback on Tuesday as initial testing on … [+2056 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Kathryn Hardison",
+            "title": "PC Shipments Plunge Nearly 20%, Steepest Drop in More Than 20 Years - The Wall Street Journal",
+            "description": "Demand for personal computers fell by the fastest pace in over two decades as back-to-school promotions failed to reignite sales.",
+            "url": "https://www.wsj.com/articles/pc-shipments-plunge-nearly-20-steepest-drop-in-more-than-20-years-11665442764",
+            "urlToImage": "https://images.wsj.net/im-641138/social",
+            "publishedAt": "2022-10-10T22:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Editorial Board",
+            "title": "Opinion | Ben Bernanke Wins a Nobel, in Theory - The Wall Street Journal",
+            "description": "The former Federal Reserve Chairman’s research on financial crises didn’t help prevent one in 2008.",
+            "url": "https://www.wsj.com/articles/ben-bernanke-wins-a-nobel-in-theory-11665442267",
+            "urlToImage": "https://images.wsj.net/im-641129/social",
+            "publishedAt": "2022-10-10T22:51:00Z",
+            "content": "An old joke has it that economists like to grouse that something may work in practice but does it work in theory? That comes to mind with the news that former Federal Reserve Chairman Ben Bernanke is… [+441 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brandon Widder",
+            "title": "The Verge Guide to Amazon's Prime Early Access Sale - The Verge",
+            "description": "Whether you’re in need of a smart speaker or a new 4K TV, we’re highlighting the best deals available during Amazon’s Early Access Sale. We’re also rounding up news, tips, and competing sales from Target, Best Buy, and other retailers.",
+            "url": "https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qwYo7XAE3Loy8QPMmJjRKrCLWAY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935561/acastro_STK103__04.jpg",
+            "publishedAt": "2022-10-10T22:38:22Z",
+            "content": "Highlighting only the best deals and discounts during Amazons two-day sales event\r\nAmazon Prime Day is no longer a once-per-year shopping event. This year, the company is hosting a second deal extrav… [+1206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Gas goes up 41 cents from last month per GasBuddy - WTHR",
+            "description": "Prices in Indy are now 41 cents higher than a month ago. And it's almost a dollar higher than a year ago.",
+            "url": "https://www.youtube.com/watch?v=wYm25nDVCeM",
+            "urlToImage": "https://i.ytimg.com/vi/wYm25nDVCeM/maxresdefault.jpg",
+            "publishedAt": "2022-10-10T22:23:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Sander Lutz",
+            "title": "Ethereum Supply Turns Deflationary—But Price Still Struggles - Decrypt",
+            "description": "Despite a gas-guzzling token launch over the weekend, ETH’s price is still slipping.",
+            "url": "https://decrypt.co/111605/ethereum-supply-turns-deflationary-but-price-still-struggles",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/ethereum-down-gID_1.jpg",
+            "publishedAt": "2022-10-10T22:08:14Z",
+            "content": "As global financial institutions wrestle with record levels of inflation, Ethereum is facing an inverse dilemma. \r\nSince Saturday, ETH supply has dropped by over 4,000 tokens, according to data from … [+3712 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Peter Johnson",
+            "title": "Why are General Motors (GM) and Ford (F) stock prices falling today? - Electrek",
+            "description": "Share prices of several popular automakers are under pressure after UBS analyst Patrick Hummel warned investors Monday that the US auto industry will likely face hurdles ahead. Both General Motors (GM) and Ford (F) stock prices are down today on the news as i…",
+            "url": "https://electrek.co/2022/10/10/why-are-gm-gm-and-ford-f-stock-prices-falling-today/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/10/GM-Ford-stock-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-10-10T22:08:00Z",
+            "content": "Share prices of several popular automakers are under pressure after UBS analyst Patrick Hummel warned investors Monday that the US auto industry will likely face hurdles ahead. Both General Motors (G… [+3874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "Andre Meunier | The Oregonian/OregonLive",
+            "title": "Oregon breweries take 18 medals at prestigious GABF competition; Washington nabs 19 - OregonLive",
+            "description": "Oregon's haul at the Great American Beer Festival, the largest and most prestigious beer competition in the U.S., included 7 golds, 7 silvers and 4 bronzes.",
+            "url": "https://www.oregonlive.com/beer/2022/10/oregon-breweries-take-18-medals-at-prestigious-gabf-competition-washington-nabs-19.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/YpH3va0SJAN-WlN37MeFg5MAf9Y=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ATU5OP2TIFCPDJTCPII5WM2SOY.jpg",
+            "publishedAt": "2022-10-10T21:47:00Z",
+            "content": "Oregon breweries won 18 medals and Washington breweries won 19 at Saturdays awards ceremony at the Great American Beer Festival, the largest and most prestigious beer competition in the United States… [+3872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Lufthansa says it is not banning AirTags from its flights despite tweets claiming otherwise - 9to5Mac",
+            "description": "Last weekend, German airline Lufthansa caused some controversy among its customers by claiming that it is now banning AirTags in checked luggage from its flights. Despite tweets from Lufthansa’s official Twitter account saying that the trackers are considered…",
+            "url": "https://9to5mac.com/2022/10/10/lufthansa-not-banning-airtags-claiming-otherwise/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/Lufthansa-AirTag.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-10-10T21:23:00Z",
+            "content": "Last weekend, German airline Lufthansa caused some controversy among its customers by claiming that it is now banning AirTags in checked luggage from its flights. Despite tweets from Lufthansa’s offi… [+3066 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Trump-tied SPAC delays vote after falling short on shareholder support - Reuters",
+            "description": "The blank-check acquisition firm that agreed to merge with former U.S. President Donald Trump's social media company postponed on Monday its shareholder vote to Nov. 3 after failing to garner enough support to win a 12-month extension.",
+            "url": "https://www.reuters.com/markets/us/trump-tied-spac-delays-vote-after-falling-short-shareholder-support-2022-10-10/",
+            "urlToImage": "https://www.reuters.com/resizer/VPfwAzMKLXAjcPdQ5p4uqkbB1E8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BUTANLAUJRLA7INUPYPBK5STS4.jpg",
+            "publishedAt": "2022-10-10T20:59:00Z",
+            "content": "NEW YORK, Oct 10 (Reuters) - The blank-check acquisition firm that agreed to merge with former U.S. President Donald Trump's social media company postponed on Monday its shareholder vote to Nov. 3 af… [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The markets are down because there are too many unknowns still, says Hightower's Stephanie Link - CNBC Television",
+            "description": "Solus' Dan Greenhaus, Hightower's Stephanie Link, and TD Ameritrade's Shawn Cruz, join 'Closing Bell: Overtime' to discuss market uncertainty, inflation and ...",
+            "url": "https://www.youtube.com/watch?v=KN2gZTkDR6U",
+            "urlToImage": "https://i.ytimg.com/vi/KN2gZTkDR6U/maxresdefault.jpg",
+            "publishedAt": "2022-10-10T20:57:36Z",
+            "content": null
+        }
+    ]
+}
